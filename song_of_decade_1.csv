@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+Blank Space,1989,Taylor Swift,2014-01-01,231826,67,0.085,0.752,0.678,1.64e-06,0.13,-5.421,0.0646,96.009,4
+Story of My Life,Midnight Memories (Deluxe),One Direction,2013-11-25,245493,82,0.225,0.6,0.663,0.0,0.119,-5.802,0.0477,121.07,4
+I Like Me Better,I met you when I was 18. (the playlist),Lauv,2018-05-31,197436,83,0.535,0.752,0.505,2.55e-06,0.104,-7.621,0.253,91.97,4
+Scars To Your Beautiful,Know-It-All (Deluxe),Alessia Cara,2015-11-13,230226,73,0.0285,0.573,0.739,0.0,0.111,-5.74,0.129,97.085,4
+Treat You Better,Illuminate,Shawn Mendes,2017-04-20,187973,83,0.106,0.444,0.819,0.0,0.107,-4.078,0.341,82.695,4
+Classic,MKTO,MKTO,2012,175426,84,0.0384,0.72,0.791,0.0,0.157,-4.689,0.124,102.071,4
+Payphone,Overexposed,Maroon 5,2012-01-01,231386,75,0.0136,0.739,0.756,0.0,0.37,-4.828,0.0394,110.028,4
+What Makes You Beautiful,Up All Night,One Direction,2012-05-25,199986,83,0.009,0.726,0.787,0.0,0.0596,-2.494,0.0737,124.99,4
+Say You Won't Let Go,Back from the Edge,James Arthur,2016-10-28,211466,85,0.695,0.358,0.557,0.0,0.0902,-7.398,0.059,85.043,4
+There's Nothing Holdin' Me Back,Illuminate (Deluxe),Shawn Mendes,2017-04-20,199440,83,0.38,0.866,0.813,0.0,0.0779,-4.063,0.0554,121.998,4
+Heart Attack,Demi,Demi Lovato,2013-01-01,210840,80,0.0738,0.504,0.785,0.0,0.239,-4.802,0.104,173.968,4
+Youngblood,Youngblood (Deluxe),5 Seconds of Summer,2018-06-15,203417,81,0.0169,0.596,0.854,0.0,0.124,-5.114,0.463,120.274,4
+Drag Me Down,Made In The A.M. (Deluxe Edition),One Direction,2015-11-13,192120,80,0.109,0.73,0.703,0.0,0.0657,-5.672,0.0369,138.113,4
+The Middle,The Middle,Zedd,2018-01-23,184732,81,0.171,0.753,0.657,0.0,0.112,-3.061,0.0449,107.01,4
+Just the Way You Are,Doo-Wops & Hooligans,Bruno Mars,2010-10-05,220734,81,0.0134,0.635,0.841,0.0,0.0622,-5.379,0.0422,109.021,4
+Shout Out to My Ex,Glory Days: The Platinum Edition,Little Mix,2017-11-24,246240,3,0.0239,0.773,0.747,8.23e-06,0.11,-4.061,0.0889,126.014,4
+"Sit Still, Look Pretty","Sit Still, Look Pretty",Daya,2016-10-07,202221,72,0.14,0.655,0.74,0.0,0.106,-4.081,0.274,182.105,4
+Me And My Broken Heart,Let The Road,Rixton,2014-01-01,193733,78,0.00489,0.545,0.783,0.0,0.132,-4.261,0.0345,174.084,4
+Sucker,Happiness Begins,Jonas Brothers,2019-06-07,181026,81,0.0427,0.842,0.734,0.0,0.106,-5.065,0.0588,137.958,4
+Beautiful People (feat. Khalid),No.6 Collaborations Project,Ed Sheeran,2019-07-12,197866,75,0.124,0.64,0.647,0.0,0.0801,-8.114,0.186,92.979,4
+Stitches,Handwritten (Deluxe),Shawn Mendes,2015-04-13,206880,0,0.0152,0.746,0.754,0.0,0.0486,-6.681,0.067,149.882,4
+YOUTH,Blue Neighbourhood (Deluxe),Troye Sivan,2015-12-04,185194,66,0.0625,0.628,0.737,0.0,0.0777,-4.437,0.041,91.507,4
+Baby,My World 2.0,Justin Bieber,2010-01-01,214240,80,0.0401,0.728,0.859,0.0,0.111,-5.237,0.137,65.043,4
+Mirrors,The 20/20 Experience (Deluxe Version),Justin Timberlake,2013-03-15,484146,79,0.234,0.574,0.512,0.0,0.0946,-6.664,0.0503,76.899,4
+We Are Never Ever Getting Back Together,Red,Taylor Swift,2012-10-22,191880,65,0.00957,0.628,0.676,2.65e-05,0.102,-5.911,0.0916,85.984,4
+Hurts So Good,Astrid S,Astrid S,2016-05-20,208728,71,0.084,0.675,0.609,0.0,0.0957,-5.027,0.0586,120.039,4
+Closer,Closer,The Chainsmokers,2016-07-29,244960,85,0.414,0.748,0.524,0.0,0.111,-5.599,0.0338,95.01,4
+Starving,Starving,Hailee Steinfeld,2016-07-22,181880,77,0.378,0.728,0.616,0.0,0.105,-4.238,0.0645,99.962,4
+Someone You Loved,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,2019-05-17,182160,87,0.751,0.501,0.405,0.0,0.105,-5.679,0.0319,109.891,4
+We Don't Talk Anymore (feat. Selena Gomez),Nine Track Mind,Charlie Puth,2016-01-29,217706,69,0.621,0.728,0.563,0.0,0.179,-8.053,0.134,100.017,4
+Love Yourself,Purpose (Deluxe),Justin Bieber,2015-11-13,233720,84,0.835,0.609,0.378,0.0,0.28,-9.828,0.438,100.418,4
+Without Me,Without Me,Halsey,2018-10-04,201660,80,0.297,0.752,0.488,9.11e-06,0.0936,-7.05,0.0705,136.041,4
+Fight Song,Wildfire,Rachel Platten,2016-01-01,204013,78,0.0549,0.564,0.714,0.0,0.155,-4.987,0.129,175.924,4
+A Thousand Years,The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack),Various Artists,2011-11-04,285120,66,0.309,0.421,0.407,0.000961,0.11,-7.445,0.0267,139.028,3
+Stereo Hearts (feat. Adam Levine),Stereo Hearts (feat. Adam Levine),Gym Class Heroes,2011-06-14,210960,59,0.0319,0.646,0.795,0.0,0.267,-3.293,0.0976,89.99,4
+"Let Me Go (with Alesso, Florida Georgia Line & watt)","Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,2017-09-08,174800,78,0.0337,0.664,0.708,0.0,0.0841,-4.154,0.0474,103.07,4
+Mine,Speak Now,Taylor Swift,2010-10-25,230706,68,0.00265,0.624,0.757,1.87e-06,0.189,-2.94,0.0296,121.07,4
+Grenade,Doo-Wops & Hooligans,Bruno Mars,2010-10-05,222091,77,0.148,0.704,0.558,0.0,0.107,-7.273,0.0542,110.444,4
+"thank u, next","thank u, next",Ariana Grande,2019-02-08,207320,83,0.229,0.717,0.653,0.0,0.101,-5.634,0.0658,106.966,4
+Little Do You Know,It's About Us,Alex & Sierra,2014-10-06,185200,76,0.746,0.5,0.292,0.0,0.188,-8.554,0.0323,145.879,4
+Please Don't Go,Please Don't Go,Joel Adams,2015-11-06,210580,73,0.0118,0.513,0.768,1.94e-05,0.294,-4.868,0.0587,84.264,4
+Domino,Who You Are (Platinum Edition),Jessie J,2011-01-01,231840,75,0.0117,0.758,0.557,0.0,0.0418,-4.568,0.034,126.986,4
+"Love Me Like You Do - From ""Fifty Shades Of Grey""",Delirium (Deluxe),Ellie Goulding,2015-11-13,252534,54,0.247,0.475,0.606,0.0,0.125,-6.646,0.0346,94.994,4
+Attention,Voicenotes,Charlie Puth,2018-05-11,208786,81,0.109,0.775,0.613,2.33e-05,0.134,-4.586,0.0542,100.066,4
+Shut Up and Dance,TALKING IS HARD,WALK THE MOON,2014-12-02,199080,82,0.00701,0.578,0.866,0.0,0.257,-3.804,0.0619,128.038,4
+All Too Well,Red (Deluxe Edition),Taylor Swift,2012-10-22,327893,73,0.0382,0.602,0.609,0.0002,0.127,-7.803,0.0243,93.06,4
+"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",I Don’t Wanna Live Forever (Fifty Shades Darker),ZAYN,2016-12-09,245200,1,0.0631,0.735,0.451,1.3e-05,0.325,-8.374,0.0585,117.973,4
+Señorita,Shawn Mendes (Deluxe),Shawn Mendes,2019-06-19,190799,80,0.0392,0.759,0.548,0.0,0.0828,-6.049,0.029,116.967,4
+Something Just Like This,Memories...Do Not Open,The Chainsmokers,2017-04-07,247160,83,0.0498,0.617,0.635,1.44e-05,0.164,-6.769,0.0317,103.019,4
+Stay,Stay,Zedd,2017-02-23,210090,76,0.253,0.69,0.622,0.0,0.116,-5.025,0.0622,102.04,4
+Perfect,÷ (Deluxe),Ed Sheeran,2017-03-03,263400,87,0.163,0.599,0.448,0.0,0.106,-6.312,0.0232,95.05,3
+Call Me Maybe,Kiss (Deluxe),Carly Rae Jepsen,2012-01-01,193400,71,0.0114,0.783,0.58,2.28e-06,0.108,-6.548,0.0408,120.021,4
+Back To December,Speak Now,Taylor Swift,2010-10-25,293026,69,0.117,0.529,0.67,0.0,0.334,-4.663,0.0303,141.893,4
+Sugar,V,Maroon 5,2014-09-02,235493,81,0.0591,0.748,0.788,0.0,0.0863,-7.055,0.0334,120.076,4
+Set Fire to the Rain,21,Adele,2011-01-19,241693,4,0.00382,0.61,0.683,1.79e-06,0.125,-3.879,0.0253,108.003,4
+The Bones,GIRL,Maren Morris,2019-03-08,197293,4,0.279,0.612,0.57,0.0,0.0963,-6.642,0.0347,77.004,4
+Meant to Be (feat. Florida Georgia Line),All Your Fault: Pt. 2,Bebe Rexha,2017-08-11,163870,77,0.047,0.643,0.783,0.0,0.083,-6.458,0.0856,154.084,4
+Shake It Off,1989,Taylor Swift,2014-10-27,219200,72,0.0561,0.648,0.785,0.0,0.148,-5.414,0.165,160.02,4
+I'll Be There,Always in Between (Deluxe),Jess Glynne,2018-10-12,194386,70,0.0288,0.627,0.858,0.0,0.199,-3.116,0.0394,100.074,4
+Good Time,The Midsummer Station,Owl City,2012-01-01,205933,78,0.0239,0.56,0.872,6.98e-06,0.371,-4.269,0.14,126.05,4
+Into You,Dangerous Woman,Ariana Grande,2016-05-20,244453,14,0.0162,0.623,0.734,1.75e-06,0.145,-5.948,0.107,107.853,4
+Dancing With A Stranger (with Normani),Dancing With A Stranger (with Normani),Sam Smith,2019-01-11,171029,78,0.45,0.741,0.52,1.97e-06,0.222,-7.513,0.0656,102.998,4
+"Hey, Soul Sister","Save Me, San Francisco (Golden Gate Edition)",Train,2010-12-01,216773,83,0.185,0.673,0.886,0.0,0.0826,-4.44,0.0431,97.012,4
+You Need To Calm Down,Lover,Taylor Swift,2019-08-23,171360,78,0.00929,0.771,0.671,0.0,0.0637,-5.617,0.0553,85.026,4
+Teenage Dream,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,2012-03-12,227760,73,0.0132,0.719,0.804,3.02e-06,0.139,-4.581,0.0355,119.999,4
+Send My Love (To Your New Lover),25,Adele,2016-06-24,223080,2,0.0415,0.69,0.524,3.16e-06,0.17,-8.39,0.103,164.023,4
+Stronger (What Doesn't Kill You),Stronger (Deluxe Version),Kelly Clarkson,2011-10-24,221946,66,0.046,0.562,0.939,0.0,0.112,-4.282,0.0475,116.044,4
+On The Floor,LOVE? (Deluxe Edition),Jennifer Lopez,2011-01-01,284866,55,0.108,0.73,0.777,0.000467,0.069,-5.199,0.0479,130.0,4
+Happier,Happier,Marshmello,2018-08-17,214289,83,0.191,0.687,0.792,0.0,0.167,-2.749,0.0452,100.015,4
+Lush Life,So Good,Zara Larsson,2017-03-17,201122,77,0.132,0.694,0.712,0.0,0.211,-3.923,0.046,98.023,4
+7 rings,"thank u, next",Ariana Grande,2019-02-08,178626,85,0.592,0.778,0.317,0.0,0.0881,-10.732,0.334,140.048,4
+Delicate,reputation,Taylor Swift,2017-11-10,232253,78,0.216,0.75,0.404,0.000357,0.0911,-10.178,0.0682,95.045,4
+Someone Like You,21,Adele,2011-01-19,285040,7,0.892,0.559,0.33,0.0,0.0975,-8.251,0.0285,135.109,4
+Rude,Don't Kill the Magic,MAGIC!,2014-06-25,224840,81,0.0422,0.773,0.758,0.0,0.305,-4.993,0.0381,144.033,4
+PILLOWTALK,Mind Of Mine (Deluxe Edition),ZAYN,2016-03-25,202746,79,0.117,0.584,0.7,0.0,0.0939,-4.275,0.0456,124.944,4
+no tears left to cry,Sweetener,Ariana Grande,2018-08-17,205920,79,0.04,0.699,0.713,3.11e-06,0.294,-5.507,0.0594,121.993,4
+Never Be the Same,Camila,Camila Cabello,2018-01-12,226973,75,0.181,0.637,0.713,0.000637,0.137,-4.333,0.0747,129.923,4
+Electric Love,Dopamine,BØRNS,2015-10-16,218106,83,0.00543,0.611,0.797,0.00137,0.26,-7.627,0.0533,120.041,4
+Sorry Not Sorry,Tell Me You Love Me (Deluxe),Demi Lovato,2017-09-29,203760,13,0.0237,0.705,0.64,0.0,0.262,-6.928,0.225,144.077,4
+All of Me,Love In The Future (Expanded Edition),John Legend,2013-08-30,269560,86,0.922,0.422,0.264,0.0,0.132,-7.064,0.0322,119.93,4
+Slow Hands,Flicker (Deluxe),Niall Horan,2017-10-20,188174,77,0.011,0.735,0.425,0.0,0.055,-6.648,0.0464,85.896,4
+Never Forget You,So Good,Zara Larsson,2017-03-17,213427,75,0.00312,0.583,0.732,9.86e-06,0.269,-5.728,0.0457,145.992,4
+Glad You Came,The Wanted (Special Edition),The Wanted,2012-01-01,198186,66,0.056,0.61,0.841,9.85e-06,0.118,-4.579,0.0692,126.889,4
+Girls Like You (feat. Cardi B) - Cardi B Version,Red Pill Blues (Deluxe),Maroon 5,2018-06-15,235545,66,0.568,0.851,0.541,0.0,0.13,-6.825,0.0505,124.959,4
+Shallow,A Star Is Born Soundtrack,Lady Gaga,2018-10-05,215733,84,0.371,0.572,0.385,0.0,0.231,-6.362,0.0308,95.799,4
+It's You,It's You,Ali Gatie,2019-06-14,212606,2,0.374,0.732,0.463,0.0,0.194,-6.972,0.0287,95.971,4
+Cold Water,Cold Water,Major Lazer,2016-07-22,185360,68,0.0736,0.608,0.798,0.0,0.156,-5.092,0.0432,92.943,4
+New Rules,Dua Lipa (Deluxe),Dua Lipa,2017-06-02,209320,80,0.00261,0.762,0.7,1.56e-05,0.153,-6.021,0.0694,116.073,4
+Circles,Hollywood's Bleeding,Post Malone,2019-09-06,215280,87,0.192,0.695,0.762,0.00244,0.0863,-3.497,0.0395,120.042,4
+Sweet but Psycho,Sweet but Psycho,Ava Max,2018-08-17,187436,10,0.0691,0.719,0.704,0.0,0.166,-4.724,0.0476,133.002,4
+Your Song,Phoenix (Deluxe Edition),Rita Ora,2018-11-23,180160,64,0.133,0.853,0.571,0.0,0.0564,-5.845,0.0543,117.991,4
+Always Remember Us This Way,A Star Is Born Soundtrack,Lady Gaga,2018-10-05,210200,72,0.299,0.553,0.502,0.0,0.764,-5.972,0.0409,129.976,4
+Issues,Nervous System,Julia Michaels,2017-07-28,176320,69,0.401,0.728,0.415,0.0,0.0616,-6.852,0.0639,114.145,4
+Lost Boy,Lost Boy,Ruth B.,2015-08-21,275280,75,0.965,0.71,0.0565,0.0,0.0889,-15.099,0.0534,123.994,4
+Roar,PRISM (Deluxe),Katy Perry,2013-10-18,223546,75,0.00487,0.554,0.772,6.6e-06,0.354,-4.821,0.0418,179.984,4
+Dancing On My Own,Only Human (Deluxe),Calum Scott,2018-03-09,260285,82,0.837,0.681,0.174,3.35e-05,0.0983,-8.745,0.0315,112.672,4
+Trampoline (with ZAYN),Trampoline (with ZAYN),SHAED,2019-09-26,184280,72,0.56,0.619,0.459,0.0,0.137,-5.782,0.0334,126.803,4
+Take on the World,Night People,You Me At Six,2017-01-06,271306,67,0.16,0.557,0.532,4.42e-06,0.0999,-6.467,0.0307,103.992,4
+Clarity,Clarity,Zedd,2012-01-01,271426,76,0.0398,0.509,0.781,0.0,0.0749,-3.48,0.072,128.0,4
+I Fall Apart,Stoney (Deluxe),Post Malone,2016-12-09,223346,81,0.0689,0.556,0.538,0.0,0.196,-5.408,0.0382,143.95,4
